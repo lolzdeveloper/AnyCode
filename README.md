@@ -4,3 +4,5 @@
 ### Fried rice
 ### Double egg chicken roll
 ## maaza
+## pepsi
+## coke
