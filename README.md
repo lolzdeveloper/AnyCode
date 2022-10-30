@@ -7,3 +7,4 @@
 ## pepsi
 ## coke
 ## frooti
+## fanta
